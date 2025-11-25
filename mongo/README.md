@@ -5,3 +5,4 @@ Run xlsx_to_mongo.py to transfer the XLSX file to your mongo database along with
 
 After, to get a basic view of recent 10 records from your MongoDB, you can run python app.py and navigate to "http://127.0.0.1:5000/records" 
 
+Assume the XLSX file is within the mongo directory folder.
